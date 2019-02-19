@@ -1,5 +1,6 @@
+package ReservationEXT;
 
-import java.util.*;
+import ReservationEXT.Exterieur;
 
 /**
  *

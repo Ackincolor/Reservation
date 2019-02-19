@@ -1,15 +1,16 @@
+package ReservationEXT;
 
 import java.util.*;
 
 /**
  *
  */
-public class Herbe extends Exterieur {
+public class Exterieur {
 
     /**
      * Default constructor
      */
-    public Herbe() {
+    public Exterieur() {
     }
 
 }

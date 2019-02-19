@@ -1,3 +1,7 @@
+package ReservationService;
+
+import ReservationEXT.Exterieur;
+import ReservationINT.Intérieur;
 
 import java.util.*;
 

@@ -9,7 +9,7 @@
         <module name="ReservationClient" />
         <module name="ReservationEXT" />
         <module name="ReservationInt" />
-        <module name="Reservationpersistence" />
+        <module name="Reservationpersistance" />
         <module name="ReservationServeur" />
         <module name="ReservationService" />
       </profile>

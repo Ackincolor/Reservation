@@ -1,15 +1,16 @@
+package ReservationINT;
 
 import java.util.*;
 
 /**
  *
  */
-public class Exterieur {
+public class Intérieur {
 
     /**
      * Default constructor
      */
-    public Exterieur() {
+    public Intérieur() {
     }
 
 }

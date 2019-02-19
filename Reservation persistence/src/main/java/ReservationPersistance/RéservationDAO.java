@@ -1,50 +1,51 @@
+package ReservationPersistance;
 
 import java.util.*;
 
 /**
  *
  */
-public class TerrainDAO {
+public class RéservationDAO {
 
     /**
      * Default constructor
      */
-    public TerrainDAO() {
+    public RéservationDAO() {
     }
 
 
     /**
      *
      */
-    public void CreateTerrain() {
+    public void CreateResa() {
         // TODO implement here
     }
 
     /**
      *
      */
-    public void UpdateTerrain() {
+    public void UpdateResa() {
         // TODO implement here
     }
 
     /**
      *
      */
-    public void ReadTerrain() {
+    public void ReadResa() {
         // TODO implement here
     }
 
     /**
      *
      */
-    public void DeleteTerrain() {
+    public void DeleteResa() {
         // TODO implement here
     }
 
     /**
      *
      */
-    public void SearchTerrain() {
+    public void SearchResa() {
         // TODO implement here
     }
 
